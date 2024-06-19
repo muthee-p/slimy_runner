@@ -62,21 +62,15 @@ Sound Effects: Plays a sound when the enemy starts following the player and stop
 
 Asset Credits
 
+Models
+The four enviroments: https://craftpix.net/freebies/filter/3d-game-assets/page/2/
+
 "Low poly rabbit" (https://skfb.ly/o7WyS) by Tin3D is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
-"Low poly deer" (https://skfb.ly/o7Jrz) by Tin3D is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-"Low poly fox running animation" (https://skfb.ly/o6Joz) by dragonsnap is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-"Low-Poly Horse" (https://skfb.ly/oy6RS) by antemeossa is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-"Low Poly Clouds" (https://skfb.ly/6RNBW) by TetsuoTetsuo is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
-"Low poly mountain lion (Puma concolor)" (https://skfb.ly/otsBt) by Natural History Museum of Los Angeles County is licensed under CC Attribution-NonCommercial-ShareAlike (http://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-"Stylized Low-poly Wood Floor" (https://skfb.ly/otJwv) by Rocco Giandomenico is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-
 "Low Poly Street Light" (https://skfb.ly/oJHLU) by Fridqeir is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+Sound and more:
+
 
 Music by <a href="https://pixabay.com/users/calvinclavier-16027823/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=201837">Calvin Clavier</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=201837">Pixabay</a>
 
