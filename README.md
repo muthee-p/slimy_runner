@@ -59,6 +59,13 @@ Sound Effects: Plays a sound when the enemy starts following the player and stop
 ![WhatsApp Image 2024-05-27 at 11 30 33 PM](https://github.com/muthee-p/slimy_runner/assets/117924809/6fe73a4a-6ac6-4ba5-8c1b-c48796200ea9)
 ![WhatsApp Image 2024-05-26 at 6 19 22 PM](https://github.com/muthee-p/slimy_runner/assets/117924809/290d2cee-1b08-4d98-8ccd-53b37f17d3fd)
 
+Itch.io Analytics as at 18/07/2024
+the Final version was published on 19th June 2024
+
+![image](https://github.com/user-attachments/assets/8e70e9e1-c47c-4006-a8ac-6bdd2ad2cb01)
+![image](https://github.com/user-attachments/assets/5c2b0cfe-448c-424e-8f64-a10766eb818d)
+
+
 
 Asset Credits
 
